@@ -1,7 +1,7 @@
 #hello {
-    height:200px;
-    width:200px;
-    text-align:center;
+    height:400px;
+    width:400px;
+     margin:default;
     border-radius: 300px;
     border:10px solid orange;
 }
@@ -10,6 +10,9 @@ body {
 
 }
 
+h1,p{
+    text-align: center;
+}
 
 h3{
     border: 5px solid black ;
