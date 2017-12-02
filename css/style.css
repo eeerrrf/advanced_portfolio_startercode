@@ -18,6 +18,11 @@ h3{
     border: 5px solid black ;
     
 }
+
+col-sm-4{
+    background-color:aquamarine;
+    border:solid black 3px;
+}
 /* Nav Bar CSS */
 
 
